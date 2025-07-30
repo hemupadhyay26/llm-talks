@@ -16,4 +16,4 @@ Here, you’ll find:
 
 **Let’s build, share, and grow — one token-saving idea at a time.**
 
-<a href="knowledge-hub/llm-knowledge-hub.md" class="button primary">Knowledge Hub</a> <a href="broken-reference" class="button secondary">Contribute (coming soon)</a>
+<a href="knowledge-hub/llm-knowledge-hub.md" class="button primary">Knowledge Hub</a> <a href="https://github.com/hemupadhyay26/llm-talks/tree/main" class="button secondary">Contribute (coming soon)</a>
