@@ -6,4 +6,4 @@
 
 ## Knowledge Hub
 
-* [📚 LLM Knowledge Hub](knowledge-hub/llm-knowledge-hub.md)
+* [📚 Fine-Tuning LLM (03 Aug 2025)](knowledge-hub/llm-knowledge-hub.md)
